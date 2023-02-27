@@ -1,4 +1,4 @@
-*** Cài đặt *** 
+*** Cài đặt(cho Ubuntu) *** 
 
 1. Go
 
@@ -15,3 +15,18 @@
 	* source .profile
 
 	* reboot lại máy
+
+2. Chuyển file nhị phân được biên dịch sang folder bin trong project go
+
+	* Thủ công: go build -o <đường dẫn folder bin>/<tên file nhị phân mới> <đường dẫn file go muốn dịch>
+
+	* Tự động
+	
+		a. Thay đổi $GOPATH
+
+			- lấy đường dẫn folder project.
+			- echo GOPATH=<đường dẫn folder project>
+		
+		b. go install <file .go muốn dịch thành file nhị phân>
+
+	* Sau đó muốn chạy nhị phân thì vô bin: ./<tên file>
