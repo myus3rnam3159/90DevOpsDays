@@ -1,3 +1,4 @@
+https://vntechies.dev/courses/90-ngay-devops/ngay-15-cac-lenh-linux-cho-devops
 Day1 Done
 Day2 Done
 Day3 Done
@@ -11,3 +12,6 @@ Day10 Done
 Day11 Done
 Day12 Done
 Day13 Done 
+Day14 Done
+Day15 
+Day16
