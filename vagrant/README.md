@@ -23,7 +23,13 @@ Lên chat gpt giải thích mã vagrant
     * cd vào thư mục chứa vagrantfile
     * vagrant init
     * chỉnh sủa vagrantfile
-    * vagrant up
+    * vagrant up: bật máy ảo
     * truy cập vào terminal máy ảo đã setup trong file: vagrant ssh
     * tài khoản máy ảo lúc này:
         a. username & password đều là vagrant
+
+2. Chú ý khi thêm bộ mạng bắc cầu trong Virtual Box
+
+    * Nhớ để ý mục Name
+    * Vào máy host lấy ip trỏ tới adapter mới tạo: lệnh: ip addr
+    * Để ý Ip có Name tương ứng

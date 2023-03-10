@@ -1,4 +1,4 @@
-https://vntechies.dev/courses/90-ngay-devops/ngay-15-cac-lenh-linux-cho-devops
+https://vntechies.dev/courses/90-ngay-devops/ngay-19-tu-dong-hoa-cac-tac-vu-voi-cac-tap-lenh-bash
 Day1 Done
 Day2 Done
 Day3 Done
@@ -13,5 +13,10 @@ Day11 Done
 Day12 Done
 Day13 Done 
 Day14 Done
-Day15 
-Day16
+Day15 Done
+Day16 Nearly Done
+Day17 Done
+Day18 Done
+Day19
+Day20
+Day21
