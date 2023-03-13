@@ -1,4 +1,4 @@
-https://vntechies.dev/courses/90-ngay-devops/ngay-19-tu-dong-hoa-cac-tac-vu-voi-cac-tap-lenh-bash
+https://vntechies.dev/courses/90-ngay-devops/ngay-22-mo-hinh-7-lop-osi
 Day1 Done
 Day2 Done
 Day3 Done
@@ -17,6 +17,15 @@ Day15 Done
 Day16 Nearly Done
 Day17 Done
 Day18 Done
-Day19
-Day20
-Day21
+Day19 Done
+Day20 Done
+
+HỌC KĨ PHẦN LÝ THUYẾT MẠNG
+
+Day21 Done
+Day22
+Day23
+Day24
+Day25
+Day26
+Day27

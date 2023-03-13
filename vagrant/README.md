@@ -33,3 +33,7 @@ Lên chat gpt giải thích mã vagrant
     * Nhớ để ý mục Name
     * Vào máy host lấy ip trỏ tới adapter mới tạo: lệnh: ip addr
     * Để ý Ip có Name tương ứng
+
+*** Học liệu ***
+
+    * https://vntechies.dev/courses/90-ngay-devops/ngay-14-buc-tranh-lon-devops-va-linux

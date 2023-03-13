@@ -54,3 +54,7 @@
 6. Biên dịch phần mềm cho các ghệ hiều hành khác nhau
 
 	* Chỉnh sửa môi trường trong Go cho phù hợp với hệ điều hành muốn biên dịch ra (GOOS VÀ GO ARCH)
+
+*** Học liệu ***
+
+	* https://vntechies.dev/courses/90-ngay-devops/ngay-13-tweet-tien-trinh-cua-ban-voi-ung-dung-moi-cua-chung-ta
